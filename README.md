@@ -5,3 +5,4 @@
 
 [Avance_PIA](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Avance1_PIA_10.ipynb)
 
+[Tarea-ejercicios-basicos-de-python](https://gist.github.com/AndresGarciaO/56ef2bc24b182cb48522ed503da48f24)
