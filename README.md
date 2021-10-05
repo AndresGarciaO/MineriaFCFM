@@ -9,5 +9,6 @@
 
 [Regresión Bayesiana](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Presentacion_RegresionBayesiana_10.pdf)
 
+[Segundo_avance](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Avance2_PIA_10.ipynb)
 
 
