@@ -14,6 +14,6 @@
 [Visualización_10_Parte1](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Visualizaci%C3%B3n_10_Parte1.ipynb)
 [visualizacion_10_parte2](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/visualizacion_10_parte2.ipynb)
 
-[TécnicasDeMinería_10](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/T%C3%A9cnicasDeMiner%C3%ADa_10.ipynb)
+[TécnicasDeMinería_10](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Técnica.ipynb)
 
 [Metrica](https://colab.research.google.com/drive/1iNhz-IVFX0x8AIPMxAxx3a3ZAXMKFTj3?usp=sharing)
