@@ -18,4 +18,4 @@
 
 [Metrica](https://colab.research.google.com/drive/1iNhz-IVFX0x8AIPMxAxx3a3ZAXMKFTj3?usp=sharing)
 
-[Metrica](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Poster_E10.pdf)
+[Poster](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Poster_E10.pdf)
